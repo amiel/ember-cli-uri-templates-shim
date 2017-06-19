@@ -1,17 +1,18 @@
 {
   "name": "ember-cli-uri-templates-shim",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Brings uri-templates in to your Ember application.",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
   "author": "amiel@actionsprout.com",
+  "homepage": "https://github.com/amiel/ember-cli-uri-templates-shim",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/amiel/ember-cli-uri-templates-shim",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
