@@ -1,7 +1,5 @@
 # ember-cli-uri-templates-shim
 
-This README outlines the details of collaborating on this Ember addon.
-
 ES6 accessible module for https://github.com/geraintluff/uri-templates/ within your Ember applications.
 
 Usage
