@@ -6,7 +6,7 @@
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "amiel@actionsprout.com",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -44,7 +44,7 @@
     "loader.js": "^4.2.3"
   },
   "engines": {
-    "node": ">= 4"
+    "node": ">= 6"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
