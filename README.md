@@ -2,25 +2,13 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
-## Installation
+ES6 accessible module for https://github.com/geraintluff/uri-templates/ within your Ember applications.
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-uri-templates-shim`
-* `npm install`
+Usage
 
-## Running
+* ember install ember-cli-uri-templates-shim
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+```js
+import UriTemplate from 'uri-templates';
+```
 
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
