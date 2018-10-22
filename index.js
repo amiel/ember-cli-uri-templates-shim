@@ -22,7 +22,7 @@ module.exports = {
       files: ['uri-templates.js']
     });
     uriTree = stringReplace(uriTree, {
-      files: ['uri-templates.js'],
+      files: ['uri-templates/uri-templates.js'],
       patterns: [{
         match: /typeof module !== 'undefined'/g,
         replacement: 'false'
