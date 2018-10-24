@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-uri-templates-shim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Brings uri-templates in to your Ember application.",
   "keywords": [
     "ember-addon"
